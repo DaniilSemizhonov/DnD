@@ -1111,6 +1111,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3249902e807a8403aa1ba417a778786a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moves: 0
+  kek: {fileID: 748097699}
+  Buttons: {fileID: 415540164}
 --- !u!54 &147973270
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2278,6 +2281,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3249902e807a8403aa1ba417a778786a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moves: 0
+  kek: {fileID: 648881726}
+  Buttons: {fileID: 155535092}
 --- !u!54 &391414795
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7178,6 +7184,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3249902e807a8403aa1ba417a778786a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moves: 0
+  kek: {fileID: 456924477}
+  Buttons: {fileID: 1522562647}
 --- !u!54 &1324292083
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9052,6 +9061,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3249902e807a8403aa1ba417a778786a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  moves: 0
+  kek: {fileID: 1361694016}
+  Buttons: {fileID: 449239477}
 --- !u!1 &1870859716
 GameObject:
   m_ObjectHideFlags: 0
